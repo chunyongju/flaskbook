@@ -1,0 +1,9 @@
+*.sqlite
+*.pyc
+.env
+__pycache__
+migrations
+tests
+venv
+apps/detector/model.pt
+apps/images/*
